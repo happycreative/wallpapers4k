@@ -1,0 +1,154 @@
+[
+
+
+{
+
+
+"img" : "",
+"soru" : "Çok sayıda yaralının olduğu kazalarda, kazazedelerin durumu değerlendirilir ve öncelikli müdahale edilecekler belirlenir. Buna göre en son müdahale edilmesi gereken kazazede aşağıdakilerden hangisidir?",
+"a" : "Açık karın yarası olan",
+"b" : "Bilinci yerinde olmayan",
+"c" : "Solunum zorluğu çeken",
+"d" : "Ayak bileğinde çıkık olan",
+"cevap" : "d",
+"key" : "saglik1d"
+
+
+},
+
+
+{
+
+
+"img" : "",
+"soru" : "Hangisi yakıt sistemi elemanıdır?",
+"a" : "Yakıt filtresi",
+"b" : "Endüksiyon bobini",
+"c" : "Marş motoru",
+"d" : "Termostat",
+"cevap" : "a",
+"key" : "saglik123x"
+
+
+},
+
+
+
+
+{
+
+
+"img" : "",
+"soru" : "Kara yolunun genel olarak taşıt trafiğince kullanılan kısmına ne ad verilir?",
+"a" : "Banket",
+"b" : "Terminal",
+"c" : "Hemzemin geçit",
+"d" : "Taşıt yolu (Kaplama)",
+"cevap" : "d",
+"key" : "cxcscascac"
+
+
+},
+
+
+
+
+
+{
+
+
+"img" : "",
+"soru" : "Aşağıdakilerden hangisi, yaralanmalarda uygulanan genel ilk yardım kurallarından biri değildir?",
+"a" : "Kanamanın durdurulması",
+"b" : "Yara yerinin değerlendirilmesi",
+"c" : "Yara üzerinin pamukla kapatılması",
+"d" : "Yaşam bulgularının kontrol edilmesi",
+"cevap" : "c",
+"key" : "assacascsagg"
+
+
+},
+
+{
+
+
+"img" : "",
+"soru" : "Denetim ve ceza korkusu olmadan yazılı kurallara uymanın yanı sıra yazılı olmayan, trafik içerisinde karşılıklı anlayış ve empati gerektiren davranışları oluşturma ve bu davranışları alışkanlık haline getirmedir.
+
+ -Bu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?
+
+",
+"a" : "Mizaç",
+"b" : "Beden dili",
+"c" : "Trafik adabı",
+"d" : " Konuşma üslubu",
+"cevap" : "c",
+"key" : "saasfcajk"
+
+
+},
+
+
+{
+
+
+"img" : "https://ehliyetsinavihazirlik.com/images/sorular/8mart2014ehliyetsorulari/soru42.jpg",
+"soru" : "Buna göre, hangi zamanda yakıt-hava karışımı pistonla sıkıştırılır?",
+"a" : "Emme zamanı",
+"b" : "Sıkıştırma zamanı",
+"c" : "Ateşleme zamanı",
+"d" : "Egzoz zamanı",
+"cevap" : "b",
+"key" : "ippık"
+
+
+},
+
+{
+
+
+"img" : "",
+"soru" : "Ağızdan ağıza suni solunum yapılacak olan hastaya verilecek pozisyon aşağıdakilerden hangisidir?",
+"a" : "Yan yatış",
+"b" : "Yarı oturuş",
+"c" : "Sırtüstü yatış",
+"d" : "Yüzüstü yatış",
+"cevap" : "c",
+"key" : "uyın"
+
+
+},
+
+{
+
+
+"img" : "https://ehliyetsinavihazirlik.com/images/10sinav12/soru41.gif",
+"soru" : "Şekildeki trafik işareti sürücüye neyi bildirir?",
+"a" : "Hızın 70 kilometreyi geçmeyeceğini",
+"b" : "70 metreden sonra yolun daralacağını",
+"c" : "70 metreden sonra park alanı olduğunu",
+"d" : "Takip mesafesinin 70 metreden az olmayacağını",
+"cevap" : "d",
+"key" : "klnklnknl"
+
+
+},
+
+
+{
+
+
+"img" : "",
+"soru" : "Holger-Nielsen (sırttan bastırma, dirsekten kaldırma) metodu ile suni solunum uygulamasında sırttan basınç yapılması kazazedede aşağıdakilerden hangisini sağlar?",
+"a" : "Bilinç kaybının düzelmesini",
+"b" : "Kalbin çalışmasını",
+"c" : "Nefes vermesini",
+"d" : "Nefes almasını",
+"cevap" : "c",
+"key" : "klnklnsdscknl"
+
+
+}
+
+
+]
