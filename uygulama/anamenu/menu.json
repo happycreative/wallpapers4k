@@ -1,0 +1,25 @@
+[
+	
+{"menuismi":"Arduino",
+"resim":"https://www.ecopetit.cat/wpic/mpic/88-884026_python-arduino.jpg",
+"key":"arduino"},
+{"menuismi":"Raspery",
+"resim":"https://images5.alphacoders.com/293/thumb-1920-293739.jpg",
+"key":"raspery"},
+{"menuismi":"PIC Programlama",
+"resim":"https://i.pinimg.com/564x/72/ab/4c/72ab4cbaa406c634f6869bb336333915.jpg",
+"key":"pic"},
+{"menuismi":"SMD 32",
+"resim":"https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://www.studiopieters.nl/wp-content/uploads/2019/04/hardware-wallpapers-30681-424423.jpg",
+"key":"smd32"},
+
+{"menuismi":"Python Programlama",
+"resim":"https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://www.studiopieters.nl/wp-content/uploads/2019/04/hardware-wallpapers-30681-424423.jpg",
+"key":"python"},
+
+{
+	"menuismi":"Proje Sipariş Et",
+"resim":"https://c.wallhere.com/photos/e5/14/show_street_camera_new_leica_city_nyc_trip-902282.jpg!d",
+"key":"proje"}
+
+]
